@@ -40,10 +40,17 @@ public class calculation {
 		//CASE 4 
 		System.out.println("CASE 4  "+ cal.Sum3(200, 400));
 	}
-
 }
 
 // Method>>> Block of code.
 //Case1- not taking parametters and also not return any value
 //Case2- not taking parametters but returning value
 //Case3- method is taking parameter and aslo returning a value
+
+
+
+
+
+
+
+

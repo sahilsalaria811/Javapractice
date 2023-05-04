@@ -20,13 +20,6 @@ public class ConstructorDemo {
 		x = a;
 		y = b;
 	}
-	
-	
-	
-	
-	
-	
-	
 
 	void display() {
 		System.out.println(x + y);
@@ -37,7 +30,11 @@ public class ConstructorDemo {
         cm.display();
           	
 	     ConstructorDemo cm1 = new ConstructorDemo(10,20);
+
 	     cm1.display();
+
+	     cm1.display(	);
+
 	}
 
 }
