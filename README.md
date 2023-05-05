@@ -1,2 +1,1 @@
-# javapractice
-# javapractice
+Complete java course
