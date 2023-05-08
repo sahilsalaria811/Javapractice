@@ -4,8 +4,9 @@ public class Constructorassignment {
 
 	int x, y, z;
 
-	Constructorassignment(int a, int b, int c) {
-		x = a;
+	Constructorassignment(int a, int b, int c) // Constructor
+		
+	{    x = a;
 		y = b;
 		z = c;
 	}
