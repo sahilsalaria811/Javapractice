@@ -39,13 +39,11 @@ public class HierarchyInheritance {
 
 		Child2 c2 = new Child2();
 
-		c2.y=10;
+		c2.y = 10;
 		c2.show2();
-		c2.a=201;
+		c2.a = 201;
 		c2.display();
-		
-		
-		
+
 	}
 
 }
