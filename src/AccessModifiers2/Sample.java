@@ -1,5 +1,5 @@
 package AccessModifiers2;
 
-public class Sample {
+public class Sample extends A {
 
 }
